@@ -1,7 +1,7 @@
 {
   "conversionMode": 0,
   "compression": 0,
-  "volume": 0.15,
+  "volume": 0.5,
   "preload": false,
   "bitRate": 128,
   "sampleRate": 44100,
@@ -12,7 +12,7 @@
     "path": "audiogroups/audiogroup_default",
   },
   "soundFile": "snd_shot_01.wav",
-  "duration": 0.185782,
+  "duration": 0.147891,
   "parent": {
     "name": "Sounds",
     "path": "folders/Sounds.yy",
