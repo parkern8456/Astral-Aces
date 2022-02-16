@@ -5,8 +5,8 @@ display_width = display_get_width();
 display_height = display_get_height();
 
 // Create ideal dimensions for display
-ideal_width = display_get_height() / zoom;
-ideal_height = display_get_width() / zoom;
+ideal_width = display_get_width() / zoom;
+ideal_height = display_get_height() / zoom;
 
 //Perfect Pixel Scaling
 if(display_width mod ideal_width != 0)
