@@ -1,4 +1,4 @@
-/// @description Player Vars
+/// @description Player & Game Vars
 
 // Setting placement vars
 var plrX = room_width * 0.5;

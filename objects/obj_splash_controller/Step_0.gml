@@ -1,4 +1,4 @@
-/// @description Draw sprite and fade in and out
+/// @description Draw Sprite Fade In & Out
 
 if (splashFade < 1 && fadeFlag = false){
     splashFade += .005;

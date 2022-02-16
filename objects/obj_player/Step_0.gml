@@ -7,8 +7,8 @@ scr_player_animation();
 
 // Player movement on mouse click
 if (global.mouseHeld){
-	x = lerp(x, global.mouseX, 0.5);
-	y = lerp(global.mouseY, y, 0.5);
+	x = lerp(x, global.mouseX, 0.2);
+	y = lerp(global.mouseY, y, 0.2);
 }
 
 // Restrict player to stay inside the room
