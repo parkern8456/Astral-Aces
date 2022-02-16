@@ -8,3 +8,7 @@ shadow_offset = 10;
 // Begin Game Flag
 begin_game = false;
 clickable = false;
+
+// "Start Game" flicker
+text_show = true;
+alarm[0] = 4;
