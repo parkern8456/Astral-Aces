@@ -32,4 +32,4 @@ cam = camera_create();
 camera_set_view_size(cam, ideal_width, ideal_height);
 camera_set_view_pos(cam, x - (ideal_width / 2), y - (ideal_height / 2));
 
-room_goto_next();
+room_goto(rm_splash);

@@ -6,7 +6,9 @@
     {"id":{"name":"spr_ship_01_left","path":"sprites/spr_ship_01_left/spr_ship_01_left.yy",},"order":1,},
     {"id":{"name":"spr_starBG_02","path":"sprites/spr_starBG_02/spr_starBG_02.yy",},"order":1,},
     {"id":{"name":"snd_enemy_explode","path":"sounds/snd_enemy_explode/snd_enemy_explode.yy",},"order":2,},
+    {"id":{"name":"spr_apsis_logo","path":"sprites/spr_apsis_logo/spr_apsis_logo.yy",},"order":0,},
     {"id":{"name":"Sprite2","path":"sprites/Sprite2/Sprite2.yy",},"order":1,},
+    {"id":{"name":"obj_splash_controller","path":"objects/obj_splash_controller/obj_splash_controller.yy",},"order":2,},
     {"id":{"name":"scr_player_animation","path":"scripts/scr_player_animation/scr_player_animation.yy",},"order":0,},
     {"id":{"name":"snd_shot_01","path":"sounds/snd_shot_01/snd_shot_01.yy",},"order":0,},
     {"id":{"name":"obj_camera","path":"objects/obj_camera/obj_camera.yy",},"order":0,},
@@ -14,6 +16,7 @@
     {"id":{"name":"obj_manager","path":"objects/obj_manager/obj_manager.yy",},"order":1,},
     {"id":{"name":"obj_enemy_01","path":"objects/obj_enemy_01/obj_enemy_01.yy",},"order":0,},
     {"id":{"name":"obj_bullet","path":"objects/obj_bullet/obj_bullet.yy",},"order":0,},
+    {"id":{"name":"rm_splash","path":"rooms/rm_splash/rm_splash.yy",},"order":2,},
     {"id":{"name":"spr_starBG_01","path":"sprites/spr_starBG_01/spr_starBG_01.yy",},"order":0,},
     {"id":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},"order":4,},
     {"id":{"name":"rm_init","path":"rooms/rm_init/rm_init.yy",},"order":1,},
@@ -39,6 +42,7 @@
   "RoomOrderNodes": [
     {"roomId":{"name":"rm_init","path":"rooms/rm_init/rm_init.yy",},},
     {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"roomId":{"name":"rm_splash","path":"rooms/rm_splash/rm_splash.yy",},},
   ],
   "Folders": [
     {"folderPath":"folders/Sprites.yy","order":1,"resourceVersion":"1.0","name":"Sprites","tags":[],"resourceType":"GMFolder",},
@@ -62,6 +66,7 @@
     {"folderPath":"folders/Objects/Dev.yy","order":5,"resourceVersion":"1.0","name":"Dev","tags":[],"resourceType":"GMFolder",},
     {"folderPath":"folders/Sprites/Enemies.yy","order":7,"resourceVersion":"1.0","name":"Enemies","tags":[],"resourceType":"GMFolder",},
     {"folderPath":"folders/Objects/Enemies.yy","order":7,"resourceVersion":"1.0","name":"Enemies","tags":[],"resourceType":"GMFolder",},
+    {"folderPath":"folders/Sprites/Logos.yy","order":8,"resourceVersion":"1.0","name":"Logos","tags":[],"resourceType":"GMFolder",},
   ],
   "AudioGroups": [
     {"targets":-1,"resourceVersion":"1.3","name":"audiogroup_default","resourceType":"GMAudioGroup",},
