@@ -11,4 +11,4 @@ clickable = false;
 
 // "Start Game" flicker
 text_show = true;
-alarm[0] = 4;
+alarm[0] = 5;

@@ -7,4 +7,4 @@ if (text_show){
 }
 
 // Reset alarm
-alarm[0] = 4;
+alarm[0] = 5;

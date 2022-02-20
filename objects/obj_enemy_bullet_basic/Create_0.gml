@@ -1,4 +1,4 @@
 /// @description Movement Vars
 
-vspd = 2;
+vspd = 5;
 damage = 1;
