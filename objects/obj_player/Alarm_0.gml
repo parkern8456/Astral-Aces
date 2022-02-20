@@ -1,7 +1,7 @@
 /// @description Auto Bullet Alarm
 
 audio_play_sound(snd_shot_01, 10, false);
-instance_create_layer(x, y -8, "Instances", obj_bullet);
+instance_create_layer(x, y -8, "Instances", obj_bullet_basic);
 
 
 // Reset alarm for next bullet

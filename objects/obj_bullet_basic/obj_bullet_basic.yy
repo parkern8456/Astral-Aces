@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "spr_enemy_01",
-    "path": "sprites/spr_enemy_01/spr_enemy_01.yy",
+    "name": "spr_bullet_basic",
+    "path": "sprites/spr_bullet_basic/spr_bullet_basic.yy",
   },
   "solid": false,
   "visible": true,
@@ -23,17 +23,16 @@
   "eventList": [
     {"isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
     {"isDnD":false,"eventNum":0,"eventType":3,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
-    {"isDnD":false,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"obj_bullet_basic","path":"objects/obj_bullet_basic/obj_bullet_basic.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
-    {"isDnD":false,"eventNum":0,"eventType":2,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":false,"eventNum":0,"eventType":7,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
   ],
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "Enemies",
-    "path": "folders/Objects/Enemies.yy",
+    "name": "Projectiles",
+    "path": "folders/Objects/Projectiles.yy",
   },
   "resourceVersion": "1.0",
-  "name": "obj_enemy_01",
+  "name": "obj_bullet_basic",
   "tags": [],
   "resourceType": "GMObject",
 }

@@ -9,3 +9,4 @@ instance_create_layer(plrX, plrY, "Instances", obj_player);
 
 // Create score var
 global.playerScore = 0;
+global.playerHealth = 10;
