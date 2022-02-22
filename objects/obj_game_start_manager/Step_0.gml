@@ -1,7 +1,7 @@
 /// @description Display Menu Until Player Clicks
 
 // Title Animation
-if (logoY < 512){
+if (logoY < (room_height / 3)){
 	logoY += 2;	
 }else{
 	clickable = true;	

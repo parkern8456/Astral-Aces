@@ -12,8 +12,10 @@
     {"id":{"name":"spr_apsis_logo","path":"sprites/spr_apsis_logo/spr_apsis_logo.yy",},"order":0,},
     {"id":{"name":"Sprite2","path":"sprites/Sprite2/Sprite2.yy",},"order":1,},
     {"id":{"name":"obj_splash_controller","path":"objects/obj_splash_controller/obj_splash_controller.yy",},"order":2,},
+    {"id":{"name":"spr_bar","path":"sprites/spr_bar/spr_bar.yy",},"order":1,},
     {"id":{"name":"scr_player_animation","path":"scripts/scr_player_animation/scr_player_animation.yy",},"order":0,},
     {"id":{"name":"spr_astral_logo_light","path":"sprites/spr_astral_logo_light/spr_astral_logo_light.yy",},"order":1,},
+    {"id":{"name":"spr_health_bar","path":"sprites/spr_health_bar/spr_health_bar.yy",},"order":0,},
     {"id":{"name":"snd_shot_01","path":"sounds/snd_shot_01/snd_shot_01.yy",},"order":0,},
     {"id":{"name":"spr_explosion_01","path":"sprites/spr_explosion_01/spr_explosion_01.yy",},"order":0,},
     {"id":{"name":"obj_camera","path":"objects/obj_camera/obj_camera.yy",},"order":0,},
@@ -79,6 +81,7 @@
     {"folderPath":"folders/Sprites/Logos.yy","order":8,"resourceVersion":"1.0","name":"Logos","tags":[],"resourceType":"GMFolder",},
     {"folderPath":"folders/Sprites/FX.yy","order":9,"resourceVersion":"1.0","name":"FX","tags":[],"resourceType":"GMFolder",},
     {"folderPath":"folders/Objects/FX.yy","order":8,"resourceVersion":"1.0","name":"FX","tags":[],"resourceType":"GMFolder",},
+    {"folderPath":"folders/Sprites/GUI.yy","order":10,"resourceVersion":"1.0","name":"GUI","tags":[],"resourceType":"GMFolder",},
   ],
   "AudioGroups": [
     {"targets":-1,"resourceVersion":"1.3","name":"audiogroup_default","resourceType":"GMAudioGroup",},

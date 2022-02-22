@@ -1,7 +1,7 @@
 /// @description Main Menu Vars
 
 // Astral logo coords.
-logoX = display_get_width() / 2;
+logoX = room_width / 2;
 logoY = -16;
 shadow_offset = 10;
 

@@ -1,5 +1,5 @@
 /// @description Draw UI Elements
 
-draw_set_font(fnt_text_small);
-draw_text(16, 16, "Score: " + string(global.playerScore));
-draw_text(16, 64, "Health: " + string(global.playerHealth));
+// Healthbar
+draw_sprite(spr_health_bar, 0, healthbarX, healthbarY);
+draw_sprite_stretched(spr_bar, 0, healthbarX, healthbarY, (global.playerHealth / global.playerMaxHealth) * healthbar_width, healthbar_height);
