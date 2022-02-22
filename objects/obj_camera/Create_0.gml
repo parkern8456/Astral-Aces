@@ -23,7 +23,7 @@ if(display_height mod ideal_height != 0)
 
 // Apply surface size and gui size
 surface_resize(application_surface, ideal_width, ideal_height);
-display_set_gui_size(display_get_width() / 6, display_get_height() / 6);
+display_set_gui_size(display_get_width() / 7, display_get_height() / 7);
 
 window_set_size(display_get_width(), display_get_height());
 window_set_fullscreen(true);
