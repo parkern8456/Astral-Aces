@@ -11,6 +11,6 @@ if (global.mouseHeld){
 	y = lerp(global.mouseY - 16, y, 0.2);
 }
 
-// Restrict player to stay inside the room
+// Restrict player coords to stay inside the room
 x = clamp(x, 0, room_width);
 y = clamp(y, 0, room_height);
