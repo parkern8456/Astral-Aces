@@ -59,7 +59,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"spr_apsis_logo","path":"sprites/spr_apsis_logo/spr_apsis_logo.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "spr_apsis_logo",
     "tags": [],
     "resourceType": "GMSequence",

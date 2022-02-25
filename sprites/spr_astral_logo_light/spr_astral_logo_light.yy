@@ -59,7 +59,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"spr_astral_logo_light","path":"sprites/spr_astral_logo_light/spr_astral_logo_light.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "spr_astral_logo_light",
     "tags": [],
     "resourceType": "GMSequence",

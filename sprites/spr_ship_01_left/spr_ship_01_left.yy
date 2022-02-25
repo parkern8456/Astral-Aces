@@ -63,7 +63,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"spr_ship_01_left","path":"sprites/spr_ship_01_left/spr_ship_01_left.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "spr_ship_01_left",
     "tags": [],
     "resourceType": "GMSequence",

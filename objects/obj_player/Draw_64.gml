@@ -16,5 +16,8 @@ for(i = 0; i < 5 - string_length(string(score)); i++)
 // Draw the score display
 draw_set_font(fnt_text_small);
 draw_set_halign(fa_right);
-draw_text(display_get_gui_width() - 16, 16, "Score: " + padding + string(global.playerScore));
+draw_text(display_get_gui_width() - 16, 16, padding + string(global.playerScore));
 draw_set_halign(fa_left);
+
+// Draw power-up container
+draw_sprite(spr_powerup_container, 0, 21, 28);

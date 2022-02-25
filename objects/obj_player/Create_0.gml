@@ -3,6 +3,7 @@
 // Shooting vars
 bulletRate = 10;
 alarm[0] = bulletRate;
+global.playerBullet = "basic";
 
 // Health bar
 healthbar_width = 24;
