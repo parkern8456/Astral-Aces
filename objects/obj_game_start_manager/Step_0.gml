@@ -10,6 +10,7 @@ if (logoY < (room_height / 3)){
 // Begin game -- Create game manager -- Destroy self on click.
 if (mouse_check_button_released(mb_left) && clickable){
 	begin_game = true;
+	audio_stop_all();
 	instance_create_layer(0, 0, "Instances", obj_game_manager);
 	instance_destroy();
 }

@@ -14,8 +14,8 @@
   "soundFile": "snd_shot_01.wav",
   "duration": 0.147891,
   "parent": {
-    "name": "Sounds",
-    "path": "folders/Sounds.yy",
+    "name": "SFX",
+    "path": "folders/Sounds/SFX.yy",
   },
   "resourceVersion": "1.0",
   "name": "snd_shot_01",

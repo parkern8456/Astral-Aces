@@ -14,8 +14,8 @@
   "soundFile": "snd_enemy_explode.wav",
   "duration": 0.415238,
   "parent": {
-    "name": "Sounds",
-    "path": "folders/Sounds.yy",
+    "name": "SFX",
+    "path": "folders/Sounds/SFX.yy",
   },
   "resourceVersion": "1.0",
   "name": "snd_enemy_explode",
